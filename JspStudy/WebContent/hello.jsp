@@ -13,6 +13,7 @@
      out.println("str=>"+str);//웹에 출력
      out.println("<h1>"+"str : "+"</h1>");
  %>
+ <%=str%>
 </body>
 </html>
 
