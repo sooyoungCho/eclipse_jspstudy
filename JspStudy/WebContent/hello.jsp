@@ -14,6 +14,8 @@
      out.println("<h1>"+"str : "+"</h1>");
  %>
  <%=str%>
+ <hr>
+ str값 출력 = <%=str %>
 </body>
 </html>
 

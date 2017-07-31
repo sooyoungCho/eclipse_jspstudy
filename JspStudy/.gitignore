@@ -106,4 +106,8 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/java,eclipse,windows
+=======
+# End of https://www.gitignore.io/api/java,eclipse,windows
+>>>>>>> refs/heads/hotfix
