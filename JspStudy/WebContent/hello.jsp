@@ -11,6 +11,7 @@
      //자바코드를 사용할 수 있는 영역(Scriptlet)->지역변수선언,제어문
      String str="조수영";
      out.println("str=>"+str);//웹에 출력
+     out.println("<h1>"+"str : "+"</h1>");
  %>
 </body>
 </html>
